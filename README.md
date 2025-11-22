@@ -64,8 +64,8 @@
 
 ---
 
-## 6. 폴더 구조
-├── data/ # 원본 데이터셋
-├── notebooks/ # 분석 코드(Jupyter/Colab)
-├── reports/ # 최종 보고서, 발표 자료
+## 6. 폴더 구조  
+├── data/ # 원본 데이터셋  
+├── notebooks/ # 분석 코드(Jupyter/Colab)  
+├── reports/ # 최종 보고서, 발표 자료  
 └── README.md
